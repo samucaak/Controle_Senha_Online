@@ -1,0 +1,47 @@
+html{
+    height: 100%;
+    background-color: #DCDCDC;
+}
+h1{
+  color: white;
+    text-align: center;
+    text-shadow: 2px 4px 4px black;
+    font-size: 50px;
+}
+div{
+  width: 80%;
+    margin: auto;
+    text-align: center;
+    height: 300px;
+    padding-top: 100px;
+    background: url("../../img/fundolog.png");
+}
+input{
+    width: 80%;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 8px;
+    background-color: #40E0D0;
+}
+#num{
+    text-align: center;
+    font-size: 40px;
+    width: 15%;
+    background-color: white;
+}
+#sub{
+    text-align: center;
+    font-size: 40px;
+    width: 60%;
+}
+#sair{
+    width: 10%;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: red;
+}
+label{
+    color: wheat;
+    font-size: 40px;
+}

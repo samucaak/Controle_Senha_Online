@@ -1,0 +1,32 @@
+html{
+    background-color: grey
+}
+#formulario{
+  width: 90%;
+  height: 400px;
+  padding-top: 100px;
+  margin: auto;
+  text-align: center;
+  border: 2px solid greenyellow;
+  background: url("../../img/fundolog.png"); 
+}
+#id_email{
+  
+}
+#enviar{
+  background-color: cadetblue;
+  color: white;
+  font-size: 50px;
+  text-shadow: 2px 4px 4px black;
+}
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+input{
+  font-size: 40px;
+  width: 70%;
+  height: 70px;
+  text-align: center;
+}
