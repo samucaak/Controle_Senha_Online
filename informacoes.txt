@@ -1,0 +1,17 @@
+Necessario a criaçao de um banco de dados com as seguintes informações
+nome: dbsname = loterica
+
+duas tabelas
+---------------------------------------------------------
+primeira tabela
+nome: logar
+com 3 colunas
+1 nome:id, tipo:INT, chavePrimária e AutoIncrementa
+2 nome:email, tipo: Varchar
+3 nome:senha, tipo: Varchar
+---------------------------------------------------------
+segunda tabela
+nome: senha
+com 2 colunas
+1 nome:id, tipo:INT, chavePrimária e AutoIncrementa
+2 nome:senha_atual, tipo:INT
